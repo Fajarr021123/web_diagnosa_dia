@@ -3,6 +3,7 @@
 <img width="743" alt="Screen Shot 2023-04-04 at 04 23 34" src="https://user-images.githubusercontent.com/96865504/229630863-5681d005-90d5-4f0b-9df5-c570dc869631.png">
 
 !!install library = pip install streamlit
+
 pip install scikit-learn
 
 
